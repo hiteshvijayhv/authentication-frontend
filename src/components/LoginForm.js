@@ -4,7 +4,7 @@ import { retry } from 'async'
 import { func } from 'prop-types'
 import './LoginForm.css'
 
-const API_ENDPOINT = 'http://loginsignup-app.herokuapp.com'
+const API_ENDPOINT = 'https://loginsignup-app.herokuapp.com'
 
 function LoginForm() {
 

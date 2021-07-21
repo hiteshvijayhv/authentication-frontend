@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import axios from 'axios'
 import './RegistrationForm.css'
 
-const API_ENDPOINT = 'http://loginsignup-app.herokuapp.com'
+const API_ENDPOINT = 'https://loginsignup-app.herokuapp.com'
 
 function RegisterForm() {
 
